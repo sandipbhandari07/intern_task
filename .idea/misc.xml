@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/flutterapp/intern/app/src/main/res/drawable/border.xml" value="0.218" />
+        <entry key="..\:/flutterapp/intern/app/src/main/res/drawable/btn.xml" value="0.218" />
+        <entry key="..\:/flutterapp/intern/app/src/main/res/drawable/button_border.xml" value="0.218" />
+        <entry key="..\:/flutterapp/intern/app/src/main/res/drawable/ic_launcher_background.xml" value="0.218" />
+        <entry key="..\:/flutterapp/intern/app/src/main/res/drawable/inc_dec_back.xml" value="0.218" />
+        <entry key="..\:/flutterapp/intern/app/src/main/res/drawable/number_back_0.xml" value="0.218" />
+        <entry key="..\:/flutterapp/intern/app/src/main/res/drawable/number_back_add.xml" value="0.218" />
+        <entry key="..\:/flutterapp/intern/app/src/main/res/drawable/number_other_back.xml" value="0.218" />
+        <entry key="..\:/flutterapp/intern/app/src/main/res/layout/activity_counter.xml" value="0.22826086956521738" />
+        <entry key="..\:/flutterapp/intern/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
